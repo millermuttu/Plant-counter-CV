@@ -13,7 +13,9 @@ This is the repo to count the number of Plants or Germinations in a given image,
 ## usage
 
 ```
-python Plant_counter --src "Path to your image"
+python Plant_counter --src <image-path>
+e.g.: 
+python Plant_counter.py --src foo/bar.jpg
 ```
 
 ## sample output
