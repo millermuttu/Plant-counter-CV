@@ -184,10 +184,9 @@ def main(srcPath, dstPath):
 def printUsage():
   print("""
   USAGE:
-  python hsv.py --src <img-path> [--dst <img-path>]
+  python Plant_counter.py --src <img-path> [--dst <img-path>]
   e.g.: 
-  python hsv.py --src foo/bar.jpg
-  python hsv.py --src foo/bar.jpg --dst bar/foo.jpg
+  python Plant_counter.py --src foo/bar.jpg
   """)
 
 def parseArgs(args):
