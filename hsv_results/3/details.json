@@ -1,0 +1,16 @@
+{
+  "images": {
+    "1.jpg": {
+      "date": "2014-06-29", 
+      "operations": [
+        "h 45-77", 
+        "s 19-255", 
+        "v 164-255", 
+        "erode (2,2) x3", 
+        "dilate (2,2) x9"
+      ]
+    }
+  }, 
+  "plants": 8,
+  "source": "3.jpg"
+}
